@@ -297,7 +297,6 @@ def listofparticipants(request):
 
 
 ## OUTPUT:
-![output](./static/img/sec.jpg)
 ![output](./static/img/home.png)
 ![output](./static/img/register.png)
 ![output](./static/img/success.png)
